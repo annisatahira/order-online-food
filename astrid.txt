@@ -1,0 +1,7 @@
+READ SELECT "Menu Makanan"
+READ SELECT "Restaurant"
+READ SELECT "Makanan"
+WRITE "Jumlah Makanan"
+IF "Pesanan sudah sesuai"
+    STORE "Total Pesanan" with CALCULATE "jumlah" 
+    PRINT "Total Harga"
