@@ -1,0 +1,12 @@
+Read select menu makanan
+Read select Restoran
+Read select makanan
+Read and Write "jumlah maknan" with number
+if pesanan sesuai
+    STORE TOTAL HARGA with SELECTED FOOD *QUANTITY
+    PRINT "total harga"
+    READ CHECKOUT 
+ELSE
+    READ select makanan
+
+READ and WRITE 
